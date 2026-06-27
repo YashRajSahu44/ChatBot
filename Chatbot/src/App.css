@@ -1,0 +1,14 @@
+
+      /* d4a373 */
+      /* hover - dda15e */
+
+    .app-container{
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+  
